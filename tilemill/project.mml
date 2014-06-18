@@ -1,0 +1,76 @@
+{
+  "bounds": [
+    -124.1757,
+    45.1821,
+    -122.4728,
+    46.2388
+  ],
+  "center": [
+    -123.3531,
+    45.8288,
+    10
+  ],
+  "format": "png",
+  "interactivity": false,
+  "minzoom": 9,
+  "maxzoom": 15,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      },
+      "status": "off"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -124.562416,
+        41.5401818,
+        -116.417828,
+        46.319319
+      ],
+      "id": "roads",
+      "class": "",
+      "Datasource": {
+        "file": "/Volumes/Reel Archive/Work From Bike/streets/roads.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "roads"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -124.5438338,
+        41.7266043,
+        -116.6798763,
+        46.2110384
+      ],
+      "id": "natural",
+      "class": "",
+      "Datasource": {
+        "file": "/Volumes/Reel Archive/Work From Bike/streets/natural.shp"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "natural"
+    }
+  ],
+  "scale": 1,
+  "metatile": 1,
+  "_basemap": "",
+  "name": "Work From Bike",
+  "description": "",
+  "attribution": ""
+}
