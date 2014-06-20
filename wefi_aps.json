@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.831405, 
+                    46.190165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Astoria", 
+                "ssid": "wetdog-cafe", 
+                "title": "Wet Dog Cafe", 
+                "address": "144 11th St", 
+                "id": "71644446"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.94368766666668, 
+                    45.59701173333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "", 
+                "ssid": "dd-wrt", 
+                "title": [], 
+                "address": "", 
+                "id": "174190367"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.94267186666667, 
+                    45.598389233333336
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "", 
+                "ssid": "TLaverdure", 
+                "title": [], 
+                "address": "", 
+                "id": "174190221"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.83246, 
+                    46.18802
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "COA Library", 
+                "title": "City of Astoria  Library", 
+                "address": "450 10th St", 
+                "id": "25045458"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.824423, 
+                    46.183744
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Astoria", 
+                "ssid": "ClatsopCommunity", 
+                "title": "Clatsop Community College", 
+                "address": "1653 Jerome Ave", 
+                "id": "11870203"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.804572, 
+                    45.369257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Tillamook", 
+                "ssid": "Pleasant Valley RV Park", 
+                "title": "Pleasant Valley Rv Park", 
+                "address": "11880 highway 101 s", 
+                "id": "6263031"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.193511, 
+                    45.856021
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Vernonia", 
+                "ssid": "AndersonPark", 
+                "title": "Anderson Park", 
+                "address": "450 jefferson ave", 
+                "id": "51748020"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.20482, 
+                    45.86212
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Vernonia", 
+                "ssid": "AndersonPark2", 
+                "title": "Anderson Park", 
+                "address": "1001 Bridge Street", 
+                "id": "11373199"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.775345, 
+                    46.196033
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "Crest Motel", 
+                "title": "Crest Motel LLC", 
+                "address": "5366 Lief Erikson Dr", 
+                "id": "514323"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.9482685, 
+                    46.1992371
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Hammond", 
+                "ssid": "Warrenton_Library", 
+                "title": "Warrenton Community Library", 
+                "address": "861 Pacific Dr", 
+                "id": "43540893"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.83525639249, 
+                    46.189031766002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "ClatsopCounty", 
+                "title": "Clatsop County Courthouse", 
+                "address": "749 Commercial St", 
+                "id": "43036624"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.832455, 
+                    46.1880219
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Astoria", 
+                "ssid": "Astoria Library", 
+                "title": "Astoria Public Library", 
+                "address": "450 10th St", 
+                "id": "1065079"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.193928, 
+                    45.858441
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Vernonia", 
+                "ssid": "BlackBearCoffee", 
+                "title": "Black Bear Coffee Company", 
+                "address": "831 Bridge St", 
+                "id": "51637846"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.82447, 
+                    46.183745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "ClatsopCommunity", 
+                "title": "Clatsop Community College", 
+                "address": "1653 Jerome Avenue", 
+                "id": "11871497"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.94376277924, 
+                    45.613722213274
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Rockaway Beach", 
+                "ssid": "ROCKAWAY-WIFI", 
+                "title": "Rockaway Beach", 
+                "address": "Anywhere!", 
+                "id": "134016954"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.857898, 
+                    46.186346
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "RileaMWR7025", 
+                "title": "Red Lion Inn Astoria", 
+                "address": "400 Industry St", 
+                "id": "81508825"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.83362666250001, 
+                    46.189133012499994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "", 
+                "ssid": "ClatsopCounty", 
+                "title": [], 
+                "address": "", 
+                "id": "134115870"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.8319473, 
+                    46.1895583
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Astoria", 
+                "ssid": "Astoria Coffee House", 
+                "title": "Astoria Coffee House", 
+                "address": "243 11th St", 
+                "id": "17950814"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.8478543, 
+                    46.1899031
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "MT_HOME", 
+                "title": "Holiday Inn Express Astoria", 
+                "address": "204 w marine dr", 
+                "id": "17894281"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.8461983, 
+                    45.4564756
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": " Tillamook", 
+                "ssid": "pc_lib", 
+                "title": "County of Tillamook Library", 
+                "address": "1716 3rd St", 
+                "id": "61539554"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.855962, 
+                    46.188668
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "wefiwifi", 
+                "city": "Astoria", 
+                "ssid": "RedLion", 
+                "title": "Red Lion Inn Astoria", 
+                "address": "400 Industry St", 
+                "id": "16378464"
+            }
+        }
+    ]
+}

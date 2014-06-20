@@ -1,0 +1,2975 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69182, 
+                    45.525654
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Premier Apartments", 
+                "address": "1983 North West Flanders Street", 
+                "id": "RASI-563656"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.04918, 
+                    45.520103
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Cornelius", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 2794", 
+                "address": "1882 Baseline St", 
+                "id": "RASB-U00164KL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.92609, 
+                    46.146397
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 13507", 
+                "address": "808 Ocean Beach Hwy", 
+                "id": "RASB-U001680R"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.73943, 
+                    46.68092
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Raymond", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "100 Willapa Pl", 
+                "id": "RASB-U0016FZ1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.93387, 
+                    45.533916
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1215 NE 48th Ave", 
+                "id": "RASB-U0016IGG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -124.01246, 
+                    44.95936
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Lincoln City", 
+                "ssid": "attwifi", 
+                "title": "The North Face 00088", 
+                "address": "1500 SE East Devils Lake Rd", 
+                "id": "RASB-U0017WY0"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.83206, 
+                    45.848263
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Saint Helens", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "58771 Columbia River Hwy", 
+                "id": "RASB-U0016KOZ"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.81772, 
+                    45.52544
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "The Home Depot #4001", 
+                "address": "13700 NW Science Park Dr", 
+                "id": "RASB-U0017VPB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.77274, 
+                    45.486423
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 10169", 
+                "address": "9350 SW Beaverton Hillsdale Hwy", 
+                "id": "RASB-U00166X0"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68143, 
+                    45.61054
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "12005 N Center Ave", 
+                "id": "RASB-U0016IGN"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -124.05433, 
+                    46.341946
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Long Beach", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "100 16th St SE", 
+                "id": "RASB-U00169J5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66447, 
+                    45.596085
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Middlefield", 
+                "ssid": "xfinitywifi", 
+                "title": "Xfinity Wifi", 
+                "address": "140 West St Unit Lower", 
+                "id": "RASI-2099264"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67407, 
+                    45.627274
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 3344", 
+                "address": "304 W 8th St", 
+                "id": "RASB-U000T0HB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.98947, 
+                    45.52009
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "110 SE Baseline St", 
+                "id": "RASB-U0016IF4"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.72284, 
+                    45.452873
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "10050 SW Barbur Blvd", 
+                "id": "RASB-U0016COQ"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.84174, 
+                    45.516674
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "15975 SW Regatta Ln", 
+                "id": "RASB-U0016IFL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68936, 
+                    45.521996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Winston Apartments", 
+                "address": "1709 South West Morrison Street", 
+                "id": "RASI-675776"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66312, 
+                    45.67343
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "7010 NE Highway 99", 
+                "id": "RASB-U0016J00"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66155, 
+                    45.581787
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "8011 NE Martin Luther King Jr Blvd", 
+                "id": "RASB-U0016BCS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68234, 
+                    45.512104
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Seattle's Best Coffee #20530", 
+                "address": "1742 SW 6th Ave", 
+                "id": "RASB-U0016883"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.84553, 
+                    45.486797
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tillamook", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1855 Main Ave N", 
+                "id": "RASB-U00169JF"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.77954, 
+                    45.48653
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "McCormick and Schmicks FHBE", 
+                "address": "9945 SW Beaverton Hillsdale Hwy", 
+                "id": "RASB-U0017WG9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68297, 
+                    45.510944
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1850 SW 6th Ave", 
+                "id": "RASB-U0016IFT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.8998, 
+                    46.15166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Kelso", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "300 Kelso Dr", 
+                "id": "RASB-U001BBR7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86569, 
+                    45.53792
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 442", 
+                "address": "18320 NW Evergreen Pkwy", 
+                "id": "RASB-U001642T"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.74621, 
+                    45.910873
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Woodland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1601 Pacific Ave", 
+                "id": "RASB-U0016GN7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66171, 
+                    45.530354
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 3412", 
+                "address": "1035 NE Mlk Blvd", 
+                "id": "RASB-U00164S9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66925, 
+                    45.632526
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "303 E 15th St", 
+                "id": "RASB-U0016I1E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.90052, 
+                    45.53796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 13903", 
+                "address": "7399 NE Butler St", 
+                "id": "RASB-U0016808"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.93196, 
+                    46.121906
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "The Home Depot #4725", 
+                "address": "580 7th Ave", 
+                "id": "RASB-U0017W2M"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.91815, 
+                    46.14838
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Warrenton", 
+                "ssid": "attwifi", 
+                "title": "The Home Depot #4023", 
+                "address": "1650 SE Ensign Ln", 
+                "id": "RASB-U0017V4J"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.52166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ibahn", 
+                "title": "Courtyard Portland City Center Common Area Wireless", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASB-U0001UQ2"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -124.00422, 
+                    44.995975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Lincoln City", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "4060 NE Highway 101", 
+                "id": "RASB-U00169GN"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.04414, 
+                    45.52018
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Cornelius", 
+                "ssid": "attwifi", 
+                "title": "Burger King #14298", 
+                "address": "2246 Baseline St", 
+                "id": "RASB-U0017UFI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6842, 
+                    45.50917
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 14040", 
+                "address": "603 SW Jackson St", 
+                "id": "RASB-U000SZK7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86641, 
+                    45.539013
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 14026", 
+                "address": "2711 NW Town Center Dr", 
+                "id": "RASB-U000SZK3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68528, 
+                    45.51635
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Empire Apartments", 
+                "address": "1217 South West 11th Avenue", 
+                "id": "RASI-583827"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.90024, 
+                    46.285027
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Castle Rock", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1040 Dougherty Dr NE", 
+                "id": "RASB-U0017XOW"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6861, 
+                    45.49802
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 471", 
+                "address": "700 SW Campus Dr", 
+                "id": "RASB-U0016LGR"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.79424, 
+                    45.490135
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "Burger King #4159", 
+                "address": "11410 SW Canyon Rd", 
+                "id": "RASB-U0017SN7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.73858, 
+                    45.586765
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "7487 N Ida Ave", 
+                "id": "RASB-U000YAMF"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6832, 
+                    45.48249
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Chart House CHPO", 
+                "address": "5700 SW Terwilliger Blvd", 
+                "id": "RASB-U0017WEY"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.7543, 
+                    45.438313
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 3389", 
+                "address": "11636 SW Pacific Hwy", 
+                "id": "RASB-U00164RU"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.81432, 
+                    45.526688
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "13459 NW Cornell Rd", 
+                "id": "RASB-U000YA8Z"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68453, 
+                    45.59792
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Delta Sky Club-PDX", 
+                "address": "Delta Sky Club Portland Internation", 
+                "id": "RASB-U0017W7B"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.747894, 
+                    45.909615
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Woodland", 
+                "ssid": "Jet Wireless", 
+                "title": "Tulip Valley Apartments", 
+                "address": "1350 Woodside Street", 
+                "id": "RASI-1037551"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68486, 
+                    45.512894
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 8719", 
+                "address": "1717 SW Park Ave", 
+                "id": "RASB-U00166B5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68063, 
+                    45.52657
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "SpotOn", 
+                "title": "937 Condos", 
+                "address": "937 North West Gilsan Street", 
+                "id": "RASI-916779"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67816, 
+                    45.518967
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "The_Nines_Guestroom", 
+                "title": "The Nines  A Luxury Collection Hotel Guest Room Wireless", 
+                "address": "525 South West Morrison Street", 
+                "id": "RASB-U000RNDV"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.52166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ibahn", 
+                "title": "Courtyard Portland City Center Guest Room Wireless", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASB-U0001UQ0"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.52166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ibahn", 
+                "title": "Courtyard Portland City Center Guest Room", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASB-U0001UQ1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.72164, 
+                    45.453358
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 8737", 
+                "address": "10010 SW Barbur Blvd", 
+                "id": "RASB-U00166BG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68943, 
+                    45.52356
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Tudor Arms Apartments", 
+                "address": "1811 North West Couch Street", 
+                "id": "RASI-614408"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68483, 
+                    45.46298
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 473", 
+                "address": "8510 SW Terwilliger Blvd", 
+                "id": "RASB-U001643F"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.90034, 
+                    45.537933
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "Burger King #16260", 
+                "address": "7398 NE Butler St", 
+                "id": "RASB-U0017TZ6"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68525, 
+                    45.519096
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Gentry Apartments", 
+                "address": "909 South West 12th Avenue", 
+                "id": "RASI-675797"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68971, 
+                    45.52302
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1831 W Burnside St", 
+                "id": "RASB-U00169M7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69267, 
+                    45.529144
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Chesterbury Benson Apartments", 
+                "address": "2015 North West Kearney Street", 
+                "id": "RASI-561021"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.99576, 
+                    45.59285
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "North Plains", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "9975 NW Glencoe Rd", 
+                "id": "RASB-U0016L4S"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67841, 
+                    45.52162
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Benson Hotel - Portland, OR", 
+                "address": "309 SW Broadway", 
+                "id": "RASB-U000XXTK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67645, 
+                    45.61132
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Burger King #4670", 
+                "address": "12225 N Jantzen Dr", 
+                "id": "RASB-U0017TBD"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.78939, 
+                    45.446896
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "Burger King #5282", 
+                "address": "10105 SW Nimbus Ave", 
+                "id": "RASB-U0017SNE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.87292, 
+                    45.494453
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Aloha", 
+                "ssid": "attwifi", 
+                "title": "Burger King #3933", 
+                "address": "18975 SW Tv Hwy", 
+                "id": "RASB-U0017SNC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67566, 
+                    45.51797
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  133816", 
+                "address": "734 SW 3rd Ave", 
+                "id": "RASB-U0017X5C"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.88292, 
+                    45.53763
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "Prometheus Lionsgate Apartments", 
+                "address": "2470 NW Inverness Dr", 
+                "id": "RASB-U0016FTN"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.87684, 
+                    45.743816
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Scappoose", 
+                "ssid": "attwifi", 
+                "title": "Burger King #15569", 
+                "address": "51551 Columbia River Hwy", 
+                "id": "RASB-U0017UF9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.89408, 
+                    45.566284
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "6393 NW Cornelius Pass Rd", 
+                "id": "RASB-U0016J3N"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68009, 
+                    45.51628
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Seattle's Best Coffee #20035", 
+                "address": "1100 SW 6th Ave", 
+                "id": "RASB-U001687D"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.84185, 
+                    45.51753
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 456", 
+                "address": "16005 SW Walker Rd", 
+                "id": "RASB-U0016431"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67156, 
+                    45.63221
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "Jet Wireless 10112", 
+                "title": "Parklane Apartments", 
+                "address": "1717 Austin Ave", 
+                "id": "RASI-1088835"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.83671, 
+                    45.55407
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 463", 
+                "address": "4708 NW Bethany Blvd", 
+                "id": "RASB-U0016437"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68083, 
+                    45.527294
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Prometheus - 10th  at Hoyt", 
+                "address": "925 NW Hoyt St", 
+                "id": "RASB-U0016FVK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.80456, 
+                    45.44369
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "12388 SW Scholls Ferry Rd", 
+                "id": "RASB-U0016IEQ"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68281, 
+                    45.52086
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Starbucks 19506", 
+                "address": "614 SW 11th Ave", 
+                "id": "RASB-U0017XD7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.97393, 
+                    45.520912
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 14031", 
+                "address": "215 SE 10th Ave", 
+                "id": "RASB-U00167I5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86759, 
+                    45.536484
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "2293 NW 185th Ave", 
+                "id": "RASB-U0016H19"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.79521, 
+                    45.48993
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  86345", 
+                "address": "11490 SW Canyon Rd", 
+                "id": "RASB-U0017X8M"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.92105, 
+                    45.99224
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Seaside", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "225 S Roosevelt Dr", 
+                "id": "RASB-U00169VT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68043, 
+                    45.612335
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Starbucks 17747", 
+                "address": "12201 N Center Ave", 
+                "id": "RASB-U0017XD8"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.90049, 
+                    46.286217
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Castle Rock", 
+                "ssid": "attwifi", 
+                "title": "Burger King #10855", 
+                "address": "1209 Mt Saint Helens Way NE", 
+                "id": "RASB-U0017RTE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6904, 
+                    45.527954
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Worthington Apartments", 
+                "address": "708 North West 19th Avenue", 
+                "id": "RASI-563682"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6788, 
+                    45.519115
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ibahn", 
+                "title": "The Nines  A Luxury Collection Hotel Guest Room", 
+                "address": "525 South West Morrison Street", 
+                "id": "RASB-U0001K7J"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.94204, 
+                    46.12573
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "Burger King #12516", 
+                "address": "658 Oregon Way", 
+                "id": "RASB-U0017RTC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6783, 
+                    45.521862
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Benson Hotel - Portland, OR", 
+                "address": "309 SW Broadway", 
+                "id": "RASB-U00163V9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67788, 
+                    45.5139
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Prometheus - Essex House", 
+                "address": "1330 SW 3rd Ave", 
+                "id": "RASB-U0016FVJ"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.71134, 
+                    45.468487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 417", 
+                "address": "7737 SW Capitol Hwy", 
+                "id": "RASB-U001642F"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.75706, 
+                    45.485874
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 415", 
+                "address": "4735 SW 77th Ave", 
+                "id": "RASB-U001642D"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67813, 
+                    45.512836
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Mortons MTPO", 
+                "address": "213 SW Clay St", 
+                "id": "RASB-U001462A"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69526, 
+                    45.47836
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 433", 
+                "address": "6326 SW Capitol Hwy", 
+                "id": "RASB-U001642O"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67761, 
+                    45.518665
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 403", 
+                "address": "700 SW 5th Ave # 124", 
+                "id": "RASB-U0016423"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69859, 
+                    45.52347
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 2925", 
+                "address": "2328 W Burnside St", 
+                "id": "RASB-U00164N5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.79515, 
+                    45.48658
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 408", 
+                "address": "11405 SW Beaverton Hillsdale Hwy", 
+                "id": "RASB-U0016426"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.78352, 
+                    45.45081
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 406", 
+                "address": "9467 SW Washington Square Rd", 
+                "id": "RASB-U0016424"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66171, 
+                    45.53179
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Prometheus - Merrick", 
+                "address": "1231 NE Martin Luther King Jr Blvd", 
+                "id": "RASB-U000YD3E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.51863
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 15727", 
+                "address": "419 SW Morrison St", 
+                "id": "RASB-U00167Q2"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.8391, 
+                    46.190533
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Astoria", 
+                "ssid": "attwifi", 
+                "title": "Burger King #6047", 
+                "address": "350 Marine Dr", 
+                "id": "RASB-U0017RT4"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.96219, 
+                    46.147526
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "Burger King #5096", 
+                "address": "3003 Ocean Beach Hwy", 
+                "id": "RASB-U0017RT6"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.90347, 
+                    46.143612
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Kelso", 
+                "ssid": "attwifi", 
+                "title": "Burger King #2836", 
+                "address": "1021 Allen St", 
+                "id": "RASB-U0017RT9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66138, 
+                    45.53505
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  133818", 
+                "address": "410 NE Broadway St", 
+                "id": "RASB-U0017QYW"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68309, 
+                    45.522583
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Jake's Famous Crawfish JKCR", 
+                "address": "401 SW 12th Ave", 
+                "id": "RASB-U0017WDX"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.77427, 
+                    45.486507
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "9475 SW Beaverton Hillsdale Hwy", 
+                "id": "RASB-U0016ICV"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67987, 
+                    45.516815
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "1035 SW 6th Ave", 
+                "id": "RASB-U00169SO"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.9296, 
+                    46.146255
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 3268", 
+                "address": "1015 Ocean Beach Hwy", 
+                "id": "RASB-U00164PL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.81033, 
+                    45.49373
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 14028", 
+                "address": "3590 SW Cedar Hills Blvd", 
+                "id": "RASB-U00167PF"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66169, 
+                    45.533806
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 14046", 
+                "address": "1503 NE Mlk", 
+                "id": "RASB-U00167IC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68007, 
+                    45.514057
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "1400 SW 5th Ave Ste 110", 
+                "id": "RASB-U0016H1A"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.92416, 
+                    46.146187
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "729 Ocean Beach Hwy", 
+                "id": "RASB-U0016AZ0"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.71095, 
+                    45.54629
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 9666", 
+                "address": "3275 NW 29th Ave", 
+                "id": "RASB-U00166OF"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69855, 
+                    45.52602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "475 NW 23rd Ave", 
+                "id": "RASB-U0016H1D"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67399, 
+                    45.509464
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McCormick and Schmicks MSPO", 
+                "address": "0309 SW Montgomery St", 
+                "id": "RASB-U0017WDH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68376, 
+                    45.530796
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Prometheus The Wyatt", 
+                "address": "1221 NW Marshall St", 
+                "id": "RASB-U0016FGR"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.75394, 
+                    45.515106
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 467", 
+                "address": "7515 SW Barnes Rd Ste 104", 
+                "id": "RASB-U001643B"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67981, 
+                    45.516926
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 474", 
+                "address": "1009 SW 6th Ave", 
+                "id": "RASB-U001643G"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.697876, 
+                    45.52278
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Fordham Apartments", 
+                "address": "742 SW Vista Avenue", 
+                "id": "RASI-563619"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.78334, 
+                    45.451534
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 10290", 
+                "address": "9359 SW Washington Square Rd", 
+                "id": "RASB-U00166YE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67442, 
+                    45.518784
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "221 SW Alder St", 
+                "id": "RASB-U0016I5X"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68622, 
+                    45.47119
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "7421 SW Barbur Blvd Ste 140", 
+                "id": "RASB-U0016I5Y"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.78227, 
+                    45.518208
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 479", 
+                "address": "10218 SW Washington St", 
+                "id": "RASB-U001643L"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.79676, 
+                    45.486588
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "11693 SW Beaverton Hillsdale Hwy", 
+                "id": "RASB-U0016HE1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86482, 
+                    45.5349
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "Burger King #11333", 
+                "address": "2085 NW Town Center Dr", 
+                "id": "RASB-U0017TB4"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.84431, 
+                    45.471924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tillamook", 
+                "ssid": "attwifi", 
+                "title": "Burger King #16043", 
+                "address": "2220 Main Ave N", 
+                "id": "RASB-U0017TN6"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86639, 
+                    45.53724
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "2435 NW Town Center Dr", 
+                "id": "RASB-U0016IE7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.83607, 
+                    46.19039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Astoria", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "645 Marine Dr", 
+                "id": "RASB-U00169XM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -124.01565, 
+                    44.96184
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Lincoln City", 
+                "ssid": "attwifi", 
+                "title": "Burger King #7602", 
+                "address": "710 SE Highway 101", 
+                "id": "RASB-U0017TN9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.98347, 
+                    46.15525
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "2196 38th Ave", 
+                "id": "RASB-U000Y9DM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.81028, 
+                    45.493988
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "3519 SW Cedar Hills Blvd", 
+                "id": "RASB-U0016ID5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.93388, 
+                    45.534084
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "AT&T Retail Store.DBiD# 127834 - OR - HILLSBORO - CORNELL TC STO", 
+                "address": "1241 NE 48th Ave", 
+                "id": "RASB-U000SY3Q"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.52166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "Courtyard_GUEST", 
+                "title": "Courtyard Portland City Center Guest Room Wireless", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASB-U000DL3J"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67687, 
+                    45.52166
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "Courtyard_GUEST", 
+                "title": "Courtyard Portland City Center Common Area Wireless", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASB-U000DL3K"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86642, 
+                    45.539185
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  86380", 
+                "address": "2711 NW Town Center Dr", 
+                "id": "RASB-U0017R2H"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.76815, 
+                    45.43244
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "12090 SW Main St", 
+                "id": "RASB-U0016KH7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68305, 
+                    45.61328
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "The Home Depot #4007", 
+                "address": "1728 Jantzen Beach Ctr", 
+                "id": "RASB-U0017VVI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67816, 
+                    45.518967
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "The_Nines_Lobby", 
+                "title": "The Nines  A Luxury Collection Hotel Common Area Wireless", 
+                "address": "525 South West Morrison Street", 
+                "id": "RASB-U000RNDW"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.92987, 
+                    46.14633
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  86384", 
+                "address": "1015 Ocean Beach Hwy", 
+                "id": "RASB-U0017ROI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.93389, 
+                    45.534016
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "1233 NE 48th Ave", 
+                "id": "RASB-U0016HD8"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66416, 
+                    45.69233
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "710 NE 98th Cir", 
+                "id": "RASB-U0016J48"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.97394, 
+                    45.51673
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "558 SE 10th Ave", 
+                "id": "RASB-U0016IDW"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.96258, 
+                    45.48828
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "The Home Depot #4018", 
+                "address": "4401 SW 110th Ave", 
+                "id": "RASB-U0016MD1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67649, 
+                    45.527004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Greyhound Portland", 
+                "address": "550 NW 6th Ave", 
+                "id": "RASB-U0017VM3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.91772, 
+                    46.139362
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Warrenton", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 10467", 
+                "address": "177  USHWY 101", 
+                "id": "RASB-U001671C"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.78943, 
+                    45.45932
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "8400 SW Nimbus Ave Ste 600", 
+                "id": "RASB-U0016HD6"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.0471, 
+                    45.521
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Cornelius", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "100 N 20th Ave", 
+                "id": "RASB-U0016HD7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.94967, 
+                    46.117455
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Longview", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 11666", 
+                "address": "94 Oregon Way", 
+                "id": "RASB-U00167FI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.75122, 
+                    45.438988
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "11201 SW 72nd Ave", 
+                "id": "RASB-U00144CN"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.08938, 
+                    45.520134
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Forest Grove", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "3315 Pacific Ave", 
+                "id": "RASB-U0016L0C"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.95472, 
+                    45.50419
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  86377", 
+                "address": "2643 SE Tualatin Valley Hwy", 
+                "id": "RASB-U0017X63"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69172, 
+                    45.523045
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "FedEx Office", 
+                "address": "1972 W Burnside St", 
+                "id": "RASB-U0016HDD"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69173, 
+                    45.52307
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 11374", 
+                "address": "1972 W Burnside St", 
+                "id": "RASB-U00167L1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68836, 
+                    45.521725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ZIGZAGWIRELESS", 
+                "title": "Commodore Apartments", 
+                "address": "1615 South West Morrison Street", 
+                "id": "RASI-675796"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.86554, 
+                    45.537884
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "Barnes & Noble", 
+                "address": "18300 NW Evergreen Pkwy", 
+                "id": "RASB-U00163U5"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.89915, 
+                    46.161125
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Warrenton", 
+                "ssid": "attwifi", 
+                "title": "ATT Retail Store DBID#  86375", 
+                "address": "159 S Highway 101", 
+                "id": "RASB-U0017R1A"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.69864, 
+                    45.55606
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "3110 N Going St", 
+                "id": "RASB-U0016BXL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.74923, 
+                    45.44097
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Tigard", 
+                "ssid": "attwifi", 
+                "title": "Burger King #2351", 
+                "address": "11539 SW Pacific Hwy", 
+                "id": "RASB-U0017SZ3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67146, 
+                    45.638985
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "STARBUCKS 2902", 
+                "address": "2420 Main St", 
+                "id": "RASB-U00164MP"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.87584, 
+                    45.534927
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "innflux", 
+                "title": "Hillsboro / Portland Extended Stay Deluxe", 
+                "address": "19311 Northwest Cornell Road", 
+                "id": "RASI-1827149"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68368, 
+                    45.524
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "The North Face #00016", 
+                "address": "1202 NW Davis St", 
+                "id": "RASB-U0017V2S"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.8786, 
+                    45.495064
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Aloha", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "19525 SW Tualatin Valley Hwy", 
+                "id": "RASB-U0016IM7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.66232, 
+                    45.67734
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Vancouver", 
+                "ssid": "attwifi", 
+                "title": "Burger King #4109", 
+                "address": "7625 NE Highway 99", 
+                "id": "RASB-U0017SB7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.677826, 
+                    45.518887
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "The_Nines_Conference", 
+                "title": "The Nines  A Luxury Collection Hotel - conference", 
+                "address": "525 South West Morrison Street", 
+                "id": "RASI-1611650"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68194, 
+                    45.593586
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "Burger King #3347", 
+                "address": "9816 N Whitaker Rd", 
+                "id": "RASB-U0017TNA"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67666, 
+                    45.52148
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "ibahn_conference", 
+                "title": "Courtyard Portland City Center - conference", 
+                "address": "550 Southwest Oak Street", 
+                "id": "RASI-1611656"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.96157, 
+                    45.530685
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Hillsboro", 
+                "ssid": "attwifi", 
+                "title": "Burger King #3954", 
+                "address": "2011 NE Cornell Rd", 
+                "id": "RASB-U0017T2I"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.70618, 
+                    45.54518
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Portland", 
+                "ssid": "attwifi", 
+                "title": "McDonald's", 
+                "address": "3208 NW Yeon Ave", 
+                "id": "RASB-U0016IEH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.82885, 
+                    45.437733
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "Ruby Tuesday", 
+                "address": "14550 SW Murray Scholls Dr", 
+                "id": "RASB-U0016LZ9"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.8412, 
+                    45.529465
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "category": "attwifi", 
+                "city": "Beaverton", 
+                "ssid": "attwifi", 
+                "title": "Burger King #6654", 
+                "address": "15945 NW Cornell Rd", 
+                "id": "RASB-U0017UB1"
+            }
+        }
+    ]
+}
