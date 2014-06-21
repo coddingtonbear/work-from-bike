@@ -1,2 +1,4 @@
 requests
 ipdb
+fastkml
+shapely
