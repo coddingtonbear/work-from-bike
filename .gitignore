@@ -5,3 +5,4 @@ share/
 *.pyc
 .DS_Store
 .Python
+node_modules/
